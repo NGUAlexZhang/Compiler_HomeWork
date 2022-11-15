@@ -1,0 +1,1 @@
+string y02,cf9w,g;y02="kjx";cf9w="e";g="pfw";y02=(cf9w*2)*6+"w"+y02*5*5;do g=cf9w+"qc" while(y02>g*2); if(cf9w+"b"<>cf9w) start y02=y02*1;y02=cf9w+"v";end else cf9w=cf9w+"k";
